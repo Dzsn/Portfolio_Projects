@@ -130,4 +130,5 @@ Some of the key strong correlations found in this dataset:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Dzsn/Portfolio_Projects.git>
+   git clone https://github.com/Dzsn/Portfolio_Projects.git
+
