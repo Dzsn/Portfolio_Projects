@@ -31,7 +31,8 @@ The aim of this project is to explore relationships between different numerical 
 ---
 
 ## Dataset
-The dataset used in this project is a CSV file (`movies.csv`) containing information about various movies. (Source: https://www.kaggle.com/datasets/danielgrijalvas/movies) Key features include:
+Source: https://www.kaggle.com/datasets/danielgrijalvas/movies
+The dataset used in this project is a CSV file (`movies.csv`) containing information about various movies.  Key features include:
 
 - `budget`: The budget of the movie.
 - `gross`: The gross earnings of the movie.
