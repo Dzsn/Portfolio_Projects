@@ -70,15 +70,15 @@ The dataset used in this project is a CSV file (`movies.csv`) containing informa
 ## Visualizations
 
 ### Budget vs Gross Earnings
-![Budget vs Gross](images/budget_vs_gross.png)  
+![Budget vs Gross](images/Gross_Budget.png)  
 *Scatter plot with regression line showing the positive relationship between budget and gross earnings.*
 
 ### Correlation Matrix (Numerical Features)
-![Correlation Matrix](images/correlation_matrix_numeric.png)  
+![Correlation Matrix](images/Numeric_Corr.png)  
 *Heatmap showing correlations between numeric variables.*
 
 ### Correlation Matrix (All Features)
-![Correlation Matrix All](images/correlation_matrix_all.png)  
+![Correlation Matrix All](images/All_Corr.png)  
 *Heatmap including label-encoded categorical variables.*
 
 ---
