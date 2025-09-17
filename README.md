@@ -44,7 +44,8 @@ The dataset used in this project is a CSV file (`movies.csv`) containing informa
 ## Data Cleaning and Preprocessing
 - **Missing values**:  
   - Numeric columns: Missing values are filled with the median.  
-  - Categorical columns: Missing values are filled with the mode.  
+  - Categorical columns: Missing values are filled with the mode.
+  - Budget: 28% missing  
 
 - **Data type conversions**:  
   - `budget` and `gross` converted to integer (`int64`).  
